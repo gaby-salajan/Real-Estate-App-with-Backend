@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">PS Project Frontend</string>
+
+    <string name="button_login">Login</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_filter_prop">Filter properties</string>
+    <string name="button_filter_users">Filter users</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="button_delete">Delete</string>
+    <string name="button_modify">Modify</string>
+    <string name="button_rent">Rent</string>
+
+    <string name="button_addProperty">Add Property</string>
+    <string name="button_addClient">Add Client</string>
+    <string name="button_export">Export</string>
+
+    <string name="button_back">Back</string>
+
+    <string name="button_addUser">Add User</string>
+
+    <string name="properties">Properties</string>
+    <string name="users">Users</string>
+
+    <!--Cardview property-->
+    <string name="property_title">Title</string>
+    <string name="property_location">Location</string>
+    <string name="property_rooms">Rooms</string>
+    <string name="property_type">Type</string>
+    <string name="property_price">Price</string>
+    <string name="property_availability">Availability</string>
+
+    <!--Cardview user-->
+    <string name="user_username">Username:</string>
+    <string name="user_email">Email:</string>
+    <string name="user_phone">Phone:</string>
+    <string name="user_password">Password:</string>
+    <string name="user_type">Type</string>
+
+
+    <!--Login dialog-->
+    <string name="loginDialog_title">Login</string>
+    <string name="loginDialog_username">Username</string>
+    <string name="loginDialog_usernameHint">Username</string>
+    <string name="loginDialog_password">Password</string>
+    <string name="loginDialog_passwordHint">Password</string>
+
+    <string name="property_imageUrl">Image URL</string>
+    <string name="user_role">Role</string>
+
+
+
+    <string name="select_lang">Select language</string>
+
+    <string name="available">Available</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="select_rent_client">Select the client who rents</string>
+    <string name="export_properties_list">Export properties list</string>
+    <string name="price_interval">Price interval</string>
+    <string name="price_min">Minimum price</string>
+    <string name="price_max">Maximum price</string>
+    <string name="properties_filter">Filter properties</string>
+
+
+    <string name="role_client">Client</string>
+    <string name="role_employee">Employee</string>
+    <string name="role_admin">Admin</string>
+
+
+    <string name="type_all">All</string>
+    <string name="type_apartment">Apartment</string>
+    <string name="type_house">House/Villa</string>
+
+    <string name="rooms_all">All</string>
+    <string name="rooms_1">1</string>
+    <string name="rooms_2">2</string>
+    <string name="rooms_3">3</string>
+    <string name="rooms_4p">4+</string>
+    <string name="button_statistics">Statistics</string>
+    <string name="avg_price">Average price</string>
+    <string name="avg_price_ap">Apartment average price</string>
+    <string name="avg_price_house">House/Villa average price</string>
+    <string name="clients">Clients</string>
+    <string name="users_filter">Filter users</string>
+
+    <integer name="databaseVersion">1</integer>
+</resources>
